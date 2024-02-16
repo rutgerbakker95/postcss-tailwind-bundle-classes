@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Coverage
+/coverage
+
+# Node modules
+node_modules
+
+# Cache
+.cache
+
+# Output
+.output
+
+# Distribution
+dist
+
+# macOS specific files
+.DS_Store
+
+# Stylelint cache
+.stylelintcache
+
+# Local Netlify folder
+.netlify
+
+uploads
+
+# Distribution and coverage for SSR
+dist-ssr
+coverage
+
+# Local environment file
+.env
+
+# Cypress videos and screenshots
+/cypress/videos/
+/cypress/screenshots/
+
+# TypeScript build information
+*.tsbuildinfo
+
+# Visual Studio files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
