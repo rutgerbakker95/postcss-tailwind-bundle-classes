@@ -1,0 +1,9 @@
+{
+  "name": "postcss-tailwind-bundle-classes",
+  "version": "1.0.0",
+  "description": "PostCSS plugin for Tailwind CSS that bundles classes",
+  "main": "index.js",
+  "repository": "https://github.com/rutgerbakker95/postcss-tailwind-bundle-classes",
+  "author": "Rutger Bakker <rutger@robuust.digital>",
+  "license": "MIT"
+}
